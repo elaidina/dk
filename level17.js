@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Blížíme se k lesu.'
+      img: 'Vi nærmer os skoven.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Autem do lesa nemůžeme.'
+      img: 'Vi kan ikke køre ind i skoven med bil.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Moc se mi tu líbí..'
+      img: 'Jeg kan rigtig godt lide det her.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Můžeme si hrát na louce.'
+      img: 'Vi kan lege på engen.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Podívej, na té květině je motýl.'
+      img: 'Se, der er en sommerfugl på den blomst.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Chtěl bys sbírat houby a jahody?'
+      img: 'Kunne du tænke dig at plukke svampe og jordbær?'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Můj přítel žije v domě blízko řeky.'
+      img: 'Min ven bor i et hus nær floden.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Každý den si hraje se svým psem.'
+      img: 'Han leger med sin hund hver dag.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Sleduješ někdy koně a krávy na louce?'
+      img: 'Kigger du nogle gange på heste og køer på engen?'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Bojím se toho velkého psa.'
+      img: 'Jeg er bange for den store hund.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Chci ti něco ukázat.'
+      img: 'Jeg vil vise dig noget.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Chceš vidět prase a selata?'
+      img: 'Vil du se ud til gris og smågrise?'
     }
   ]
 

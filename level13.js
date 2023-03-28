@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Co si o tom myslíš?'
+      img: 'Hvad synes du om det?'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Zhasni světlo.'
+      img: 'Sluk lyset.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Kde si hraješ se svými přáteli?'
+      img: 'Hvor leger du med dine venner?'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Kdy se vracíš z práce?'
+      img: 'Hvornår kommer du hjem fra arbejde?'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Podržte šroubovák.'
+      img: 'Hold skruetrækkeren.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Každý večer se dívám na pohádku před spaním.'
+      img: 'Jeg ser en godnathistorie hver aften.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Uhádneš, co jsem?'
+      img: 'Kan du gætte, hvad jeg er?'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Sázíte květiny a stromy?'
+      img: 'Planter du blomster og træer?'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Ano, jsem zahradník.'
+      img: 'Ja, jeg er gartner.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Hádej, na co myslím.'
+      img: 'Gæt hvad jeg tænker på.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Je to chlapec, dívka, zvíře nebo věc?'
+      img: 'Er det en dreng, en pige, et dyr eller en ting?'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Vise to na zdi?'
+      img: 'Hænger det på væggen?'
     }
   ]
 

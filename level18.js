@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Jsou velmi špinavé a tlusté, ale také zábavné.'
+      img: 'De er meget beskidte og fede, men også sjove.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Rádi si hrají v blátě.'
+      img: 'De kan lide at lege i mudderet.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Děti si rády hrají na dvoře.'
+      img: 'Børnene kan lide at lege i gården.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Těší se, až si postaví chatku.'
+      img: 'De glæder sig til at lave en hytte.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Potřebují kladivo, hřebíky a prkna.'
+      img: 'De skal bruge en hammer, søm og planker.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Rád bych jim pomohl zatlouct prkna.'
+      img: 'Jeg kan godt lide at hjælpe dem med at hamre plankerne.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Spíše nám pomozte zatlouct hřebíky.'
+      img: 'Hjælp os hellere med at hamre sømmene.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Jak se ti líbí hotová chatka?'
+      img: 'Hvordan kan du lide den færdige hytte?'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Je to ta nejlepší chatka vůbec.'
+      img: 'Det er den bedste hytte nogensinde.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Je krásný horký den.'
+      img: 'Det er en dejlig varm dag.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Děti jsou u řeky.'
+      img: 'Børnene er ved flodbredden.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Všude je spousta písku.'
+      img: 'Der er meget sand overalt.'
     }
   ]
 

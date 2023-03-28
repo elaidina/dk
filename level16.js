@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Těší se, až uvidí svoji babičku.'
+      img: 'De glæder sig til at se deres bedstemor.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Její vesnice není daleko od města.'
+      img: 'Hendes landsby ligger ikke langt fra byen.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Jdeme spolu s nimi.'
+      img: 'Vi kommer sammen med dem.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Můžeš na nás počkat?'
+      img: 'Kan du vente på os?'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Musím se zeptat všech.'
+      img: 'Jeg må spørge alle.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Budeme procházet městem.'
+      img: 'Vi vil gå gennem byen.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: "Budeme moci vidět spoustu aut, obchodů a velkých domů."
+      img: "Vi vil kunne se masser af biler, butikker og store huse."
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'V ulicích je spousta lidí.'
+      img: 'Der er mange mennesker i gaderne.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Ukaž mi cestu, prosím.'
+      img: 'Vis mig vejen, tak.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Jděte rovně a pak zahněte doleva.'
+      img: 'Gå ligeud og drej så til venstre.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'U obrovského mostu odbočte doprava.'
+      img: 'Drej til højre ved den gigantiske bro.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Vpravo je můj oblíbený obchod a vlevo kostel.'
+      img: 'Der er min yndlingsbutik til højre og en kirke til venstre.'
     }
   ]
 
