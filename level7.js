@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Nalepte oči, nos a ústa na masku.'
+      img: 'Sæt øjnene, næsen og munden på masken.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Moje šaty jsou příliš krátké a široké.'
+      img: 'Min kjole er for kort og bred.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Stojím uprostřed kruhu.'
+      img: 'Jeg står midt i en cirkel.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Obuj si boty.'
+      img: 'Tag dine sko på.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Dávej na sebe pozor.'
+      img: 'Tage sig af dig.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Bydlíš ve městě nebo na vesnici?'
+      img: 'Bor du i en by eller en landsby?'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Co vidíš?'
+      img: 'Hvad kan du se?'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Vidím káčátko, nějaká kuřátka, psa a kočku.'
+      img: 'Jeg kan se en ælling, nogle unger, en hund og en kat.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Jakou barvu má ta kočka?'
+      img: 'Hvilken farve har katten?'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Ta kočka je černá.'
+      img: 'Katten er sort.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Mám rád čokoládovou zmrzlinu.'
+      img: 'Jeg kan godt lide chokoladeis.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Rád poslouchám příběhy.'
+      img: 'Jeg kan godt lide at lytte til historier.'
     }
   ]
 

@@ -1,4 +1,4 @@
-document.addEventListener('DOMContentLoaded', () => {
+ mdocument.addEventListener('DOMContentLoaded', () => {
   //card options
   const cardArray = [
     {
@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: "e to vaše taška?"
+      img: "Er det din taske?"
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: "Co máš v ruce?"
+      img: "Hvad har du i hånden?"
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: "Můžeš hádat."
+      img: "Du kan gætte."
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: "Ano, to je moje."
+      img: "Ja, den er min."
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: "Toto je moje nové kolo."
+      img: "Dette er min nye cykel."
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: "Čí je to kolo?"
+      img: "Hvem cykel er det?"
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Vypadá to staře.'
+      img: 'Det ser gammelt ud.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: "Jak staře vypadám?"
+      img: "Hvor gammel ser jeg ud?"
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Vypadáš jako dítě..'
+      img: 'Du ligner et barn.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'To jablko je červené.'
+      img: 'Det æble er rødt.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: "Jaká je tvoje oblíbená barva?"
+      img: "Hvad er din yndlingsfarve?"
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: "Nejvíc se mi líbí růžová barva."
+      img: "Jeg kan bedst lide den lyserøde farve."
     }
   ]
 

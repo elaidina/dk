@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: "Jak ti můžu pomoci?"
+      img: "Hvordan kan jeg hjælpe dig?"
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: "Můžeš se podívat na stůl?"
+      img: "Kan du se på bordet?"
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Bylo to pod stolem.'
+      img: 'Det lå under bordet.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Myslel jsem, že je to na skříni nebo blízko židle.'
+      img: 'Jeg troede, det var på skabet eller i nærheden af stolen.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: "Stavím lego auto."
+      img: "Jeg bygger en lego bil."
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Podívej se na tento malý obrázek.'
+      img: 'Se på dette lille billede.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Je tam mnoho jahod, třešní, malin a hroznů.'
+      img: 'Der er mange jordbær, kirsebær, hindbær og vindruer.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Hrušky a meruňky ještě nejsou zralé.'
+      img: 'Pærerne og abrikoserne er ikke modne endnu.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Tady máš talíř, vidličku, šálek a lžíci.'
+      img: 'Her er din tallerken, gaffel, kop og ske.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Je to tvoje taška nebo ne?'
+      img: 'Er det din taske eller ej?'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Moje panenka má velké modré oči a dlouhé vlasy.'
+      img: 'Min dukke har store blå øjne og langt hår.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: "Vezmeme nůžky a vystřihneme srdíčko."
+      img: "Lad os tage en saks og klippe et hjerte ud."
     }
   ]
 
