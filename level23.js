@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Mám ráda léto, protože mi táta kupuje hodně zmrzliny.'
+      img: 'Jeg kan godt lide sommeren, fordi far køber masser af is til mig.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Les je na podzim velmi barevný.'
+      img: 'Skoven er meget farverig om efteråret.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Pole, kopce, domy a stromy jsou v zimě pokryty sněhem.'
+      img: 'Markerne, bakkerne, husene og træerne er dækket af sne om vinteren.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'S mými přáteli děláme sněhuláka.'
+      img: 'Vi laver en snemand med mine venner.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Moje teta krmí své slepice a kachny kukuřicí a pšenicí.'
+      img: 'Min tante fodrer sine høns og ænder med majs og hvede.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Nalévá trochu mléka do misky.'
+      img: 'Hun hælder noget mælk i en skål.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Malá koťátka jsou roztomilá a zábavná.'
+      img: 'De små killinger er søde og sjove.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Vždycky strčí tlapky do misky a rozlijí mléko.'
+      img: 'De lægger altid poterne i skålen og spilder mælken.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Můj strýc je velmi šikovný..'
+      img: 'Min onkel er meget handy.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Sází zeleninu a květiny.'
+      img: 'Han planter grøntsager og blomster.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Babička dělá moc dobrou marmeládu a kompoty.'
+      img: 'Bedstemor laver rigtig god marmelade og stuvede frugter.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Pomáhám dědovi sbírat jablka, hrušky, hrozny a švestky.'
+      img: 'Jeg hjælper bedstefar med at plukke æbler, pærer, vindruer og blommer.'
     }
   ]
 

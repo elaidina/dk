@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Učíme se, protože chceme poznat svět kolem nás.'
+      img: 'Vi lærer, fordi vi gerne vil kende verden omkring os.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Také chceme vědět, jak dělat věci.'
+      img: 'Vi vil også gerne vide, hvordan man laver tingene.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Můj přítel má malého bratra.'
+      img: 'Min ven har fået en lillebror.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Chce vědět všechno.'
+      img: 'Han vil vide alt.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Vždycky klade otázky.'
+      img: 'Han stiller altid spørgsmål.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Žijí lidé na Měsíci?'
+      img: 'Bor folk på månen?'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Proč lidé pracují?'
+      img: 'Hvorfor arbejder folk?'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Jedí a pijí květiny?'
+      img: 'Spiser og drikker blomster?'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Jdu za otcem a zeptám se ho.'
+      img: 'Jeg går til min far og spørger ham.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Ví toho spoustu.'
+      img: 'Han ved mange ting.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Bydlím v paneláku.'
+      img: 'Jeg bor i en boligblok.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'V našem domě není žádný komín.'
+      img: 'Der er ingen skorsten på vores hus.'
     }
   ]
 
