@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Nespadni.'
+      img: 'Du skal ikke falde.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Choď pomalu.'
+      img: 'Gå langsomt.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Moji kamarádi dělají sněhuláka.'
+      img: 'Mine venner laver en snemand.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Moje narozeniny jsou v zimě.'
+      img: 'Min fødselsdag er om vinteren.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Lidé mají narozeniny jen jednou za rok.'
+      img: 'Folk har kun fødselsdag en gang om året.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Je to škoda.'
+      img: 'Det er synd.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Moje dcera se narodila ve čtvrtek.'
+      img: 'Min datter blev født i torsdags.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Nikdo neví, proč je ta kočka tak tlustá.'
+      img: 'Ingen ved, hvorfor katten er så fed.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Ta holčička umí zapnout knoflíky na svetru, ale neumí si zapnout zip na bundě. '
+      img: 'Den lille pige kan knappe trøjen, men hun kan ikke lyne jakken op. '
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Ráda si hraje s vodou v koupelně.'
+      img: 'Hun kan lide at lege med vand på badeværelset.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Pere si ponožky, košili a pyžamo.'
+      img: 'Hun vasker sine sokker, skjorte og pyjamas.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Všude je spousta vody.'
+      img: 'Der er meget vand overalt.'
     }
   ]
 

@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Podlaha a stěny jsou mokré.'
+      img: 'Gulvet og væggene er våde.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Ona nikdy neposlouchá.'
+      img: 'Hun adlyder aldrig.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Děda musí vytáhnout obří řepu.'
+      img: 'Bedstefar skal trække en kæmpe majroe frem.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Táhne a tahá řepu, ale nemůže ji vytáhnout.'
+      img: 'Han trækker og trækker majroen, men han kan ikke trække den ud.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Musí zavolat svému vnukovi..'
+      img: 'Han skal ringe til sit barnebarn.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Táhnou, dokud řepa nevyleze.'
+      img: 'De trækker, indtil majroen kommer ud.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Všichni padají na zem a smějí se.'
+      img: 'De falder alle sammen på jorden og griner.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Proč zvířata nemluví?'
+      img: 'Hvorfor kan dyr ikke tale?'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Mohou, ale my jim nerozumíme.'
+      img: 'Det kan de, men vi forstår dem ikke.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Ta slepice vypráví příběhy svým kuřatům.'
+      img: 'Den høne fortæller historier til sine unger.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'O čem je ten příběh?'
+      img: 'Hvad handler historien om?'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Řekni mi ten příběh, prosím.'
+      img: 'Fortæl mig historien, tak.'
     }
   ]
 

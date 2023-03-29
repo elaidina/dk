@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Nikde mě nemohli najít.'
+      img: 'De kunne ikke finde mig nogen steder.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Když jsme dorazili do nového domu, cítili jsme se mizerně.'
+      img: 'Da vi nåede det nye hus, følte vi os elendige.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Právě jsem dostal skvělý nápad!'
+      img: 'Jeg har lige fået en lys idé!'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Jedna z mých tkaničkek se rozvázala a já na ní šlápl.'
+      img: 'Den ene på mine snørebånd blev løsnet, og jeg trådte på den.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Musel jsem si pořádně zavázat tkaničky.'
+      img: 'Jeg var nødt til at binde mine snørebånd ordentligt.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Odjel v autě.'
+      img: 'Han kørte væk i bilen.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Maminka se mnou nebyla moc spokojená.'
+      img: 'Mor var ikke særlig tilfreds med mig.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Bylo toho tolik k práci.'
+      img: 'Der var så meget at lave.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Pojďme a vylezme na ten strom.'
+      img: 'Lad os gå hen og klatre i det træ.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Tu noc jsem poprvé spal ve své nové ložnici.'
+      img: 'Den nat sov jeg i mit nye soveværelse for første gang.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Brzy jsem spal ve svém novém domově.'
+      img: 'Snart sov jeg i mit nye hjem.'
     }
   ]
 
