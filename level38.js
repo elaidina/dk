@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Na nos a ústa si dala jednorázovou masku.'
+      img: 'Hun lagde en engangsmaske over sin næse og mund.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'K čemu to je?'
+      img: 'Hvad er det til?'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Abych přes tebe nedýchal.'
+      img: 'Så jeg ikke trækker vejret over dig.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Teď jsi na řadě.'
+      img: 'Det er din tur nu.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Našla malou dírku v jednom z Tomových zubů.'
+      img: 'Hun fandt et lille hul i en af Toms tænder.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Vyčistím tu díru a dám do ní náplň.'
+      img: 'Jeg vil rense det hul og fylde en fyldning i det.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Zabrání tomu, aby se kusy jídla dostaly dovnitř a staly se nepříjemnými.'
+      img: 'Det vil forhindre, at stykker mad kommer ind og bliver grimme.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Sací hadička v Tomových ústech vydávala legrační zvuky při sání.'
+      img: 'Sutterøret i Toms mund lavede sjove suttelyde.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Pak použila vrtačku, aby vyčistila díru v Tomově zubu.'
+      img: 'Så brugte hun en snæver boremaskine til at rense hullet i Toms tand.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Sestra dala Tomovi sklenici růžové vody, aby si vypláchla ústa.'
+      img: 'Sygeplejersken gav Tom et glas pink vand for at skylle hendes mund.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Zubař otvor vysušil malým dmychadlem, aby výplň uvnitř pevně přilnula.'
+      img: 'Tandlægen tørrede hullet med en lille luftblæser, så fyldet skulle sidde tæt inde.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Sestra namíchala malý kousek stříbrné náplně.'
+      img: 'Sygeplejersken blandede en lille smule sølvfyld.'
     }
   ]
 

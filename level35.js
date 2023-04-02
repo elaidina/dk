@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Malá čarodějnice se po tvrdé práci začala cítit velmi unavená.'
+      img: 'Den lille heks begyndte at føle sig meget træt efter sit hårde arbejde.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Všichni žili šťastně až do smrti.'
+      img: 'De levede alle lykkeligt til deres dages ende.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Podívejte se nahoru a podívejte se dolů.'
+      img: 'Se op og se ned.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Na střeše zatéká.'
+      img: 'Der er en utæthed i taget.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Je snadné to opravit.'
+      img: 'Det er nemt at reparere.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Ale jak se tam nahoru dostaneš?'
+      img: 'Men hvordan kan du nå derop?'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Nemohu vylézt nahoru.'
+      img: 'Jeg kan ikke klatre op.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Je to příliš strmé.'
+      img: 'Den er alt for stejl.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Musím si půjčit žebřík.'
+      img: 'Jeg skal låne en stige.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'To dítě skáče přes kaluže a zakopne.'
+      img: 'Knægten hopper over vandpytterne og tripper.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Vysvětluje, jak jí do čaje kapal déšť.'
+      img: 'Hun forklarer, hvordan regnen dryppede i hendes te.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Moje okno se nezavře.'
+      img: 'Mit vindue lukker ikke.'
     }
   ]
 

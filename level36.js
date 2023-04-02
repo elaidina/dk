@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Je to zaseknuté.'
+      img: 'Den sidder fast.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Dělá, co může, aby zacelil mezeru.'
+      img: 'Han gør, hvad han kan for at lukke hullet op.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Problém je v tom, že máš příliš tenké sklo.'
+      img: 'Problemet er, at dit glas er for tyndt.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Jeďte pomalu zpátky.'
+      img: 'Kør langsomt tilbage.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'V zatáčkách zpomalte.'
+      img: 'Sæt farten ned i svingene.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Bude havarovat.'
+      img: 'Han kommer til at styrte sammen.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Jaká velká smůla.'
+      img: 'Sikke en masse uheld.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Kéžby mu ten déšť nekapal do čaje.'
+      img: 'Hvis bare den regn ikke havde dryppet i hans te.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Zapomněl vypnout kohoutek ve vaně.'
+      img: 'Han glemte at lukke for hans badehane.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Tato kniha patří mně.'
+      img: 'Denne bog tilhører mig.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Musím k zubaři.'
+      img: 'Jeg skal til tandlægen.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Tato kniha patří jemu.'
+      img: 'Denne bog tilhører ham.'
     }
   ]
 
