@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Její malá sestra si chtěla taky hrát.'
+      img: 'Hendes lillesøster ville også lege.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Vykopla míč vysoko do vzduchu a Jamie se za ním rozběhl.'
+      img: 'Hun sparkede bolden højt i luften, og Jamie løb efter den.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Dávej pozor na rybník, prosím.'
+      img: 'Tænk på dammen, tak.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Bohužel se koule skutálela do záhonu a my jsme ji utíkali najít.'
+      img: 'Uheldigvis rullede bolden ind i et blomsterbed, og vi løb for at finde den.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Něco mi bzučelo kolem obličeje.'
+      img: 'Noget summede om mit ansigt.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Byla to včela.'
+      img: 'Det var en bi..'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Když zůstanu v klidu, nemusí mě to bodnout.'
+      img: 'Når jeg holder mig stille, stikker det mig måske ikke.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Včela odbzučela a já byl v bezpečí.'
+      img: 'Bien summede af, og jeg var i sikkerhed.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Jamie držel malou červenou bobuli.'
+      img: 'Jamie holdt en lille rød bær.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Nikdy nesmíš jíst nic, co najdeš na zahradě.'
+      img: 'Du må aldrig spise noget, du finder i haven.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Mohlo by to být jedovaté.'
+      img: 'Det er måske giftigt.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Jamie otevřel ústa, aby jim ukázal, že nejedl žádné bobule.'
+      img: 'Jamie åbnede munden for at vise dem, at han ikke havde spist nogen bær.'
     }
   ]
 

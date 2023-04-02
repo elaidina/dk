@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Ale ta dívka nebyla jen dívka.'
+      img: 'Men pigen var ikke bare en pige.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Byla to čarodějnice.'
+      img: 'Hun var en heks.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Věděla, jak chytat duchy.'
+      img: 'Hun vidste, hvordan man fangede spøgelser.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Doufám, že jich bude víc!'
+      img: 'Jeg håber, der er nogle flere!'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Pokračovala, dokud nechytila všechny duchy v domě.'
+      img: 'Hun fortsatte, indtil hun havde fanget alle spøgelserne i huset.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Pak šla do kuchyně.'
+      img: 'Så gik hun ud i køkkenet.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Všechny je dala do pračky.'
+      img: 'Hun lagde dem alle i vaskemaskinen.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Když byly čisté, pověsila je na zahradu.'
+      img: 'Da de var rene, hængte hun dem ud i haven.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Bylo dobré počasí na sušení.'
+      img: 'Det var fint vejr til tørring.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Po vysušení se z většiny duchů staly pěkné závěsy.'
+      img: 'Efter tørring blev de fleste af spøgelserne til flotte gardiner.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Jeden z nich vytvořil dobrý ubrus.'
+      img: 'En af dem lavede en god dug.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Všechny byly velmi užitečné.'
+      img: 'De var alle meget nyttige.'
     }
   ]
 
