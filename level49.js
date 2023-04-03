@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Zažili jsme dobrodružství.'
+      img: 'Vi har haft eventyr.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Maminka nemohla zprovoznit táborová kamna.'
+      img: 'Mor kunne ikke få lejrovnen til at virke.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Budeme si muset vystačit se studenou snídaní.'
+      img: 'Vi bliver nødt til at nøjes med en kold morgenmad.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Táta se přišel podívat, co se děje.'
+      img: 'Far kom for at se, hvad der var galt.'
     },
     /* {
       name: '5',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Pojď a přidej se k nám.'
+      img: 'Kom og vær med til os.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Brzy tam byla krásná vůně klobás a slaniny.'
+      img: 'Snart var der den dejlige duft af pølser og bacon.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Bylo toho dost pro všechny.'
+      img: 'Der var rigeligt til alle.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Miluju kempování.'
+      img: 'Jeg elsker at campere.'
     },
     /* {
       name: '10',

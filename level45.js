@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Ráno vyběhl rovnou ven postavit sněhuláka.'
+      img: 'Om morgenen løb han direkte udenfor for at bygge en snemand.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Táta jim pomohl a nakonec měli nádherného sněhuláka.'
+      img: 'Far hjalp dem, og til sidst havde de en pragtfuld snemand.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Tom běžel dovnitř a přinesl starý klobouk na hlavu a mrkev na nos.'
+      img: 'Tom løb indendørs og hentede en gammel hat til hovedet og en gulerod til næsen.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Už se stmívalo.'
+      img: 'Det var ved at blive mørkt.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Když vešli do obýváku, měli překvapení.'
+      img: 'De havde en overraskelse, da de gik ind i stuen.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Vánoční stromeček byl pokrytý blikajícími světýlky, pozlátkem a malými hračkami.'
+      img: 'Juletræet var dækket af blinkende lys, glimmer og lille legetøj.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Červenka byla posazená přímo na vrcholu stromu.'
+      img: 'Robinen sad lige i toppen af træet.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'To není fér.'
+      img: 'Robinen sad lige i toppen af træet.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Můj anděl by měl být nahoře.'
+      img: 'Min engel burde være øverst.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Kitty vešla do pokoje a spatřila červenku.'
+      img: 'Kitty spadserede ind i rummet og fik øje på robinen.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Konečně byl Štědrý den, noc, kdy přichází Otec Vánoc.'
+      img: 'Endelig var det juleaften, den nat, hvor julemanden kommer.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Tom šel do postele, ale nechtěl jít spát.'
+      img: 'Tom gik i seng, men han ønskede ikke at sove.'
     }
   ]
 

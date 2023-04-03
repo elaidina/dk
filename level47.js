@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Ale Tom si brzy vzpomněl, jak to udělat.'
+      img: 'Men Tom huskede hurtigt, hvordan man gjorde det.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Nejvíc se mi líbí náš stan.'
+      img: 'Jeg kan bedst lide vores telt.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Šel jsem pro vodu.'
+      img: 'Jeg gik for at hente vand.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Po večeři šel Tom prozkoumat les.'
+      img: 'Efter aftensmaden gik Tom for at udforske skoven.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Někdo namaloval šipky na stromy.'
+      img: 'Nogen har malet pile på træerne.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Pokud budeme sledovat ty šipky, vezmou nás na pořádnou procházku a přivedou nás zpět do tábora.'
+      img: 'Hvis vi følger disse pile, vil de tage os en god tur og bringe os tilbage til lejren.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Velcí chlapci byli velmi hluční.'
+      img: 'De store drenge var meget støjende.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Pojďme si hrát do našeho stanu.'
+      img: 'Lad os gå og lege inde i vores telt.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Je čas, abyste se vy dva dostali do spacáků.'
+      img: 'Det er på tide, at I to kommer i jeres soveposer.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Tom skoro spal ve svém útulném spacáku, když něco narazilo do jeho stanu.'
+      img: 'Tom sov næsten i sin hyggelige sovepose, da noget ramte hans telt.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Vyděsilo ho to.'
+      img: 'Det gav ham en forskrækkelse.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Die frechen Jungs hatten einen Fußball hart gegen Toms Zelt getreten.'
+      img: 'De frække drenge havde sparket en fodbold hårdt mod Toms telt.'
     }
   ]
 

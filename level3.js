@@ -1,4 +1,4 @@
- mdocument.addEventListener('DOMContentLoaded', () => {
+ document.addEventListener('DOMContentLoaded', () => {
   //card options
   const cardArray = [
     {
