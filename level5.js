@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: "Der er mælk, brød og smør.."
+      img: "Der er mælk, brød og smør."
     },
     {
       name: '9',

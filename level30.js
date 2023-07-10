@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Det var en bi..'
+      img: 'Det var en bi.'
     },
     {
       name: '7',

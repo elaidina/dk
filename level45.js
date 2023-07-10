@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Robinen sad lige i toppen af træet.'
+      img: 'Det er ikke fair.'
     },
     {
       name: '9',

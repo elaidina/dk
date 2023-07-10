@@ -91,7 +91,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Ti zlobiví kluci tvrdě kopli fotbalový míč do Tomova stanu.'
+      img: 'The naughty boys had kicked a football hard at Tom´s tent.'
     },
     {
       name: '12',
